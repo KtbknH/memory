@@ -47,15 +47,6 @@ Le joueur clique pour retourner deux cartes :
 
 ---
 
-## Ajouter un visuel (GIF)
-Pour rendre le README plus attrayant, ajoute une capture animée du jeu :  
-- Place ton GIF dans un dossier `assets/` du dépôt.  
-- Insère-le dans le README avec une ligne comme :  
-
-`![Démo du jeu](assets/demo.gif)`  
-
----
-
 ## Utilisation
 1. Installer **Processing** (version 3 ou 4).  
 2. Ouvrir le dossier du projet dans l’IDE Processing.  
